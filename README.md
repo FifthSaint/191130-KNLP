@@ -3,7 +3,9 @@
 
 ## 멘토 소개
 * 권오성 sage5th@hani.co.kr
-
+    * [데이터저널리즘코리아](https://www.facebook.com/groups/DataJournalismKR) 운영진
+    * [Hacsk/Hackers Seoul](https://www.meetup.com/ko-KR/Hacks-Hackers-Seoul/) 운영자
+    
 ## 도구
 * Anaconda (Python 3.7) [설치법](https://wikidocs.net/50698#1-anaconda)
 * (보조) Google Colab [링크](https://colab.research.google.com/)
