@@ -14,7 +14,7 @@
 Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
 
 ## 순서
-### 1. 자연어처리란
+### [1. 자연어처리란](1_자연어처리란.md)
 
 ### 2. 파이썬 기초
 <!-- NLTK 기반 -->
