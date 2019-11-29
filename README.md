@@ -1,7 +1,8 @@
 # 191130-KNLP
 # 한국언론진흥재단 데이터 멘토링 자연어처리(NLP)
 
-## 소개
+## 멘토 소개
+* 권오성 sage5th@hani.co.kr
 
 ## 도구
 * Anaconda (Python 3.7) [설치법](https://wikidocs.net/50698#1-anaconda)
