@@ -1,5 +1,5 @@
 # 191130-KNLP
-# 한국언론진흥재단 데이터 멘토링 자연어 처리
+# 한국언론진흥재단 데이터 멘토링 자연어처리(NLP)
 
 ## 소개
 
@@ -14,8 +14,8 @@
 * [KoNLPy 설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
 
 ## 교재
-*(기본) [딥 러닝을 이용한 자연어 처리 입문 (by Won Joon Yoo)](https://wikidocs.net/book/2155)
-*(기본) [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit
+* (기본)[딥 러닝을 이용한 자연어 처리 입문 (by Won Joon Yoo)](https://wikidocs.net/book/2155)
+* (기본)[Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit
 Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
 
 ## 순서
