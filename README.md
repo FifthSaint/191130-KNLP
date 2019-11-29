@@ -10,10 +10,10 @@
 * KoNLPy (한글 자연어처리 라이브러리) [설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
 
 ## 교재
-* (기본)[딥 러닝을 이용한 자연어 처리 입문 (by Won Joon Yoo)](https://wikidocs.net/book/2155)
+* (기본)[딥 러닝을 이용한 자연어 처리 입문 (by Won Joon Yoo)](https://wikidocs.net/book/2155)  
     ㄴPython을 어느정도 다룰 줄 안다고 가정하고 있음
 * (기본)[Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit
-Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
+Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)  
     ㄴPython을 익히면서 동시에 자연어처리를 공부하는 훌륭한 교재이나 영어를 다룸
 
 ## 순서
