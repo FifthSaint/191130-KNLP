@@ -15,10 +15,6 @@ Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
 
 ## 순서
 ### 1. 자연어처리란
-  * 개요
-  * 활용 
-  * 작업환경 & 설치
-  * 재료: 말뭉치
 
 ### 2. 파이썬 기초
 <!-- NLTK 기반 -->
