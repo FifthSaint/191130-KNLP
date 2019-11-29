@@ -9,9 +9,9 @@
 * KoNLPy (한글 자연어처리 라이브러리)
 
 ## 설치
-[Anaconda Download](https://www.anaconda.com/distribution/)
-[Google Colab(설치 불필요)](https://colab.research.google.com/)
-[KoNLPy 설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
+* [Anaconda Download](https://www.anaconda.com/distribution/)
+* [Google Colab(설치 불필요)](https://colab.research.google.com/)
+* [KoNLPy 설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
 
 ## 순서
 ### 1. 자연어처리란
