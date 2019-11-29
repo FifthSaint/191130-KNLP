@@ -13,6 +13,9 @@
 * [Google Colab(설치 불필요)](https://colab.research.google.com/)
 * [KoNLPy 설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
 
+## 교재
+*(기본) [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+
 ## 순서
 ### 1. 자연어처리란
   * 개요
