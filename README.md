@@ -25,10 +25,10 @@ Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
 ### 4. 말구름(word cloud) 그리기
 <!-- 문레기 사례 기반 -->
 
-### 5. 기계학습 맛보기 1: 워드임베딩
+### 5. 자연어처리 기계학습 1: 토픽모델링(topic modeling)
 <!-- 새 사례 만들어야 -->
 
-### 6. 기계학습 맛보기 2: 토픽모델링
+### 6. 자연어처리 기계학습 2: 워드임베딩(word embedding)
 <!-- 동성애 기사 기반 -->
 
 
