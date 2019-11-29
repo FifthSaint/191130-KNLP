@@ -4,14 +4,9 @@
 ## 소개
 
 ## 도구
-* Anaconda (Python 3.7)
-* (보조) Google Colab
-* KoNLPy (한글 자연어처리 라이브러리)
-
-## 설치
-* [Anaconda Download](https://wikidocs.net/50698#1-anaconda)
-* [Google Colab(설치 불필요)](https://colab.research.google.com/)
-* [KoNLPy 설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
+* Anaconda (Python 3.7) [설치법](https://wikidocs.net/50698#1-anaconda)
+* (보조) Google Colab [링크](https://colab.research.google.com/)
+* KoNLPy (한글 자연어처리 라이브러리) [설치법](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
 
 ## 교재
 * (기본)[딥 러닝을 이용한 자연어 처리 입문 (by Won Joon Yoo)](https://wikidocs.net/book/2155)
