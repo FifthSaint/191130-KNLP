@@ -19,7 +19,7 @@ Steven Bird, Ewan Klein, and Edward Loper](http://www.nltk.org/book/)
 ### [2. 파이썬 기초](2_파이썬기초.md)
 <!-- NLTK 기반 -->
 
-### [3. 텍스트의 기초 통계]('3_텍스트 기초통계.md')
+### [3. 텍스트의 기초 통계](3_텍스트 기초통계.md)
 <!-- NLTK 기반 -->
 
 ### [4. 말구름(word cloud) 그리기](4_말구름그리기.md)
